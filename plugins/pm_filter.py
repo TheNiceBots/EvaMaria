@@ -407,7 +407,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/kpmovie_request')
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/PornHub_X_HD')
         ], [
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
@@ -438,10 +438,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('⭕ Updates ⭕', url='https://t.me/+881y22CuJRZlYmY1'),
-            InlineKeyboardButton('⭕ Support ⭕', url='https://t.me/kpmovie_request')
+            InlineKeyboardButton(' 🔞 Updates 🔞', url='https://t.me/PornHub_X_HD'),
+            InlineKeyboardButton(' 🔞 Support 🔞 ', url='https://t.me/MissMiaMalkova')
             ],[
-            InlineKeyboardButton('🚸 Powered By', url='https://t.me/MoviesFlixers_DL'),
+            InlineKeyboardButton('🚸 Powered By', url='https://t.me/trishamadhukar_official'),
             InlineKeyboardButton('💢 Source', callback_data='source')
             ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
