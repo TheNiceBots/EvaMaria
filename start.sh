@@ -9,4 +9,4 @@ fi
 cd /EvaMaria
 pip3 install -U -r requirements.txt
 echo "Starting Bot...."
-python bot.py
+python -m bot.py
