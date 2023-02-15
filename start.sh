@@ -6,7 +6,7 @@ else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /miamalkova
 fi
-cd /EvaMaria
+cd /miamalkova
 pip3 install -U -r requirements.txt
 echo "Starting MalkovaRoBot...."
 
