@@ -9,4 +9,5 @@ fi
 cd /EvaMaria
 pip3 install -U -r requirements.txt
 echo "Starting MalkovaRoBot...."
+
 CMD ["python3", "bot.py"]
